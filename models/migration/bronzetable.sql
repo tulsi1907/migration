@@ -1,0 +1,1 @@
+SELECT * FROM {{ source('tulsi','online_retail_ii') }}
