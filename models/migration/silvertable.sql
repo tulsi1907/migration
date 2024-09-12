@@ -5,7 +5,6 @@ silvertable AS (
     SELECT 
         Invoice, 
         StockCode, 
-        Description, 
         Quantity, 
         InvoiceDate, 
         Price,
